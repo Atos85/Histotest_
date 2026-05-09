@@ -1,6 +1,6 @@
 {
-  "name": "SacaTuPlaza Test",
-  "short_name": "Test",
+  "name": "Histotest",
+  "short_name": "Histotest",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#111827",
