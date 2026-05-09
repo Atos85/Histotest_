@@ -19,7 +19,6 @@ def listar_tests():
 
 
 def cargar_preguntas(nombre_archivo):
-
     ruta = os.path.join(TEST_FOLDER, nombre_archivo)
 
     with open(ruta, "r", encoding="utf-8") as f:
@@ -29,12 +28,10 @@ def cargar_preguntas(nombre_archivo):
     pregunta_actual = None
 
     for linea in lineas:
-
         if not linea:
             continue
 
         if linea.lower().startswith("pregunta"):
-
             if pregunta_actual:
                 preguntas.append(pregunta_actual)
 
@@ -63,9 +60,7 @@ def cargar_preguntas(nombre_archivo):
 
         elif linea.lower().startswith("correcta:"):
             pregunta_actual["correcta"] = (
-                linea.split(":", 1)[1]
-                .strip()
-                .upper()
+                linea.split(":", 1)[1].strip().upper()
             )
 
     if pregunta_actual:
@@ -76,9 +71,7 @@ def cargar_preguntas(nombre_archivo):
 
 @app.route("/", methods=["GET", "POST"])
 def inicio():
-
     if request.method == "POST":
-
         archivo = request.form.get("archivo")
 
         preguntas = cargar_preguntas(archivo)
@@ -136,7 +129,6 @@ def inicio():
 
 @app.route("/pregunta", methods=["GET", "POST"])
 def pregunta():
-
     archivo = session.get("archivo")
     orden = session.get("orden", [])
     indice = session.get("indice", 0)
@@ -150,28 +142,21 @@ def pregunta():
         return redirect(url_for("resultado"))
 
     posicion_real = orden[indice]
-
     pregunta_actual = preguntas[posicion_real]
 
     if request.method == "POST":
-
         respuesta = request.form.get("respuesta")
-
         correcta = pregunta_actual["correcta"]
 
         es_correcta = respuesta == correcta
 
         if es_correcta:
-
-            session["aciertos"] = (
-                session.get("aciertos", 0) + 1
-            )
-
+            session["aciertos"] = session.get("aciertos", 0) + 1
         else:
-
             fallos = session.get("fallos", [])
 
             fallos.append({
+                "posicion": posicion_real,
                 "pregunta": pregunta_actual["pregunta"],
                 "tu": respuesta,
                 "correcta": correcta
@@ -198,7 +183,6 @@ def pregunta():
 
 @app.route("/feedback")
 def feedback():
-
     resultado = session.get("ultimo_resultado")
 
     if not resultado:
@@ -215,17 +199,12 @@ def feedback():
 
 @app.route("/siguiente")
 def siguiente():
-
-    session["indice"] = (
-        session.get("indice", 0) + 1
-    )
-
+    session["indice"] = session.get("indice", 0) + 1
     return redirect(url_for("pregunta"))
 
 
 @app.route("/resultado")
 def resultado():
-
     return render_template(
         "resultado.html",
         aciertos=session.get("aciertos", 0),
@@ -234,20 +213,35 @@ def resultado():
     )
 
 
+@app.route("/repetir-falladas")
+def repetir_falladas():
+    fallos = session.get("fallos", [])
+
+    if not fallos:
+        return redirect(url_for("resultado"))
+
+    nuevo_orden = [fallo["posicion"] for fallo in fallos]
+
+    session["orden"] = nuevo_orden
+    session["indice"] = 0
+    session["aciertos"] = 0
+    session["fallos"] = []
+    session["total"] = len(nuevo_orden)
+
+    return redirect(url_for("pregunta"))
+
+
 @app.route("/admin", methods=["GET", "POST"])
 def admin():
-
     if not session.get("admin"):
         return redirect(url_for("admin_login"))
 
     mensaje = ""
 
     if request.method == "POST":
-
         archivo = request.files.get("archivo")
 
         if archivo and archivo.filename.lower().endswith(".txt"):
-
             ruta_destino = os.path.join(
                 TEST_FOLDER,
                 archivo.filename
@@ -256,7 +250,6 @@ def admin():
             archivo.save(ruta_destino)
 
             mensaje = "Test subido correctamente."
-
         else:
             mensaje = "Solo se permiten archivos .txt."
 
@@ -271,19 +264,14 @@ def admin():
 
 @app.route("/admin/login", methods=["GET", "POST"])
 def admin_login():
-
     error = ""
 
     if request.method == "POST":
-
         password = request.form.get("password")
 
         if password == ADMIN_PASSWORD:
-
             session["admin"] = True
-
             return redirect(url_for("admin"))
-
         else:
             error = "Contraseña incorrecta."
 
@@ -295,7 +283,6 @@ def admin_login():
 
 @app.route("/admin/logout")
 def admin_logout():
-
     session.pop("admin", None)
 
     return redirect(url_for("inicio"))
@@ -303,16 +290,12 @@ def admin_logout():
 
 @app.route("/admin/borrar/<nombre>")
 def borrar_test(nombre):
-
     if not session.get("admin"):
         return redirect(url_for("admin_login"))
 
     ruta = os.path.join(TEST_FOLDER, nombre)
 
-    if (
-        os.path.exists(ruta)
-        and nombre.lower().endswith(".txt")
-    ):
+    if os.path.exists(ruta) and nombre.lower().endswith(".txt"):
         os.remove(ruta)
 
     return redirect(url_for("admin"))
