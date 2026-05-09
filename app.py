@@ -8,7 +8,7 @@ app.secret_key = "clave_temporal"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEST_FOLDER = os.path.join(BASE_DIR, "test")
 
-ADMIN_PASSWORD = "admin123"
+ADMIN_PASSWORD = "Huesi1985*"
 
 
 def listar_tests():
