@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+    <meta name="theme-color" content="#2563eb">
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body class="light">
+
+<div class="contenedor">
+
+    <div class="toggle">
+        <button onclick="cambiarModo()">
+            🌙 / ☀️
+        </button>
+    </div>
+
+    <h2>Pregunta {{ numero }}/{{ total }}</h2>
+
+    <div class="pregunta">
+        {{ pregunta.pregunta }}
+    </div>
+
+    <form method="POST">
+
+        {% for letra, texto in pregunta.opciones.items() %}
+
+            <label class="opcion">
+
+                <input type="radio"
+                       name="respuesta"
+                       value="{{ letra }}"
+                       required>
+
+                {{ letra }}) {{ texto }}
+
+            </label>
+
+        {% endfor %}
+
+        <button type="submit">
+            Responder
+        </button>
+
+    </form>
+
+</div>
+
+<script>
+
+function aplicarModo() {
+
+    let modo = localStorage.getItem("modo");
+
+    if (!modo) {
+        modo = "light";
+    }
+
+    document.body.className = modo;
+}
+
+function cambiarModo() {
+
+    let actual = document.body.className;
+
+    if (actual === "light") {
+        actual = "dark";
+    } else {
+        actual = "light";
+    }
+
+    document.body.className = actual;
+
+    localStorage.setItem("modo", actual);
+}
+
+aplicarModo();
+
+</script>
+<script>
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/static/service-worker.js")
+        .then(function() {
+            console.log("Service Worker registrado");
+        })
+        .catch(function(error) {
+            console.log("Error al registrar Service Worker:", error);
+        });
+}
+</script>
+</body>
+</html>

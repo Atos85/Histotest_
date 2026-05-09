@@ -1,0 +1,159 @@
+from flask import Flask, render_template, request, redirect, url_for, session
+import os
+
+app = Flask(__name__)
+app.secret_key = "clave_temporal"
+
+TEST_FOLDER = r"D:\DOCUMENTOS\PROGRAMA SACATUPLAZA\WEB TEST\TEST"
+
+
+def listar_tests():
+    return [f for f in os.listdir(TEST_FOLDER) if f.lower().endswith(".txt")]
+
+
+def cargar_preguntas(nombre_archivo):
+    preguntas = []
+    ruta = os.path.join(TEST_FOLDER, nombre_archivo)
+
+    with open(ruta, "r", encoding="utf-8") as f:
+        lineas = [linea.strip() for linea in f.readlines()]
+
+    pregunta_actual = None
+
+    for linea in lineas:
+        if not linea:
+            continue
+
+        if linea.lower().startswith("pregunta"):
+            if pregunta_actual:
+                preguntas.append(pregunta_actual)
+
+            pregunta_actual = {
+                "pregunta": "",
+                "opciones": {},
+                "correcta": ""
+            }
+
+        elif pregunta_actual and not linea.lower().startswith(
+            ("a)", "b)", "c)", "d)", "correcta:")
+        ):
+            pregunta_actual["pregunta"] += " " + linea
+
+        elif linea.lower().startswith("a)"):
+            pregunta_actual["opciones"]["A"] = linea[2:].strip()
+
+        elif linea.lower().startswith("b)"):
+            pregunta_actual["opciones"]["B"] = linea[2:].strip()
+
+        elif linea.lower().startswith("c)"):
+            pregunta_actual["opciones"]["C"] = linea[2:].strip()
+
+        elif linea.lower().startswith("d)"):
+            pregunta_actual["opciones"]["D"] = linea[2:].strip()
+
+        elif linea.lower().startswith("correcta:"):
+            pregunta_actual["correcta"] = linea.split(":", 1)[1].strip().upper()
+
+    if pregunta_actual:
+        preguntas.append(pregunta_actual)
+
+    return preguntas
+
+
+@app.route("/", methods=["GET", "POST"])
+def seleccionar_test():
+    tests = listar_tests()
+
+    if request.method == "POST":
+        archivo = request.form.get("archivo")
+
+        session["archivo"] = archivo
+        session["indice"] = 0
+        session["aciertos"] = 0
+        session["fallos"] = []
+
+        preguntas = cargar_preguntas(archivo)
+        session["total"] = len(preguntas)
+
+        return redirect(url_for("pregunta"))
+
+    return render_template("seleccionar.html", tests=tests)
+
+
+@app.route("/pregunta", methods=["GET", "POST"])
+def pregunta():
+    archivo = session.get("archivo")
+
+    if not archivo:
+        return redirect(url_for("seleccionar_test"))
+
+    preguntas = cargar_preguntas(archivo)
+    indice = session.get("indice", 0)
+
+    if indice >= len(preguntas):
+        return redirect(url_for("resultado"))
+
+    if request.method == "POST":
+        respuesta = request.form.get("respuesta")
+        correcta = preguntas[indice]["correcta"]
+
+        es_correcta = respuesta == correcta
+
+        if es_correcta:
+            session["aciertos"] = session.get("aciertos", 0) + 1
+        else:
+            fallos = session.get("fallos", [])
+            fallos.append({
+                "numero": indice + 1,
+                "pregunta": preguntas[indice]["pregunta"],
+                "tu_respuesta": respuesta,
+                "correcta": correcta
+            })
+            session["fallos"] = fallos
+
+        session["feedback"] = {
+            "es_correcta": es_correcta,
+            "respuesta": respuesta,
+            "correcta": correcta,
+            "numero": indice + 1,
+            "total": len(preguntas)
+        }
+
+        return redirect(url_for("feedback"))
+
+    return render_template(
+        "pregunta.html",
+        pregunta=preguntas[indice],
+        numero=indice + 1,
+        total=len(preguntas)
+    )
+
+
+@app.route("/feedback")
+def feedback():
+    datos = session.get("feedback")
+
+    if not datos:
+        return redirect(url_for("pregunta"))
+
+    return render_template("feedback.html", datos=datos)
+
+
+@app.route("/siguiente")
+def siguiente():
+    session["indice"] = session.get("indice", 0) + 1
+    return redirect(url_for("pregunta"))
+
+
+@app.route("/resultado")
+def resultado():
+    return render_template(
+        "resultado.html",
+        aciertos=session.get("aciertos", 0),
+        total=session.get("total", 0),
+        fallos=session.get("fallos", [])
+    )
+
+
+if __name__ == "__main__":
+    app.run(debug=True)

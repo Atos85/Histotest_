@@ -1,0 +1,799 @@
+Pregunta 1
+La zona exterior y más delgada de la Tierra —entre 16 y 40 km de espesor— es:
+a) El manto superior
+b) La corteza
+c) La astenosfera
+d) El núcleo externo
+Correcta: b
+
+Pregunta 2
+La capa blanda del manto superior se denomina:
+a) Litosfera
+b) Corteza oceánica
+c) Astenosfera
+d) Biosfera
+Correcta: c
+
+Pregunta 3
+La superficie de separación entre la corteza y el manto se denomina:
+a) Discontinuidad de Gutenberg
+b) Astenosfera
+c) Moho
+d) Núcleo interno
+Correcta: c
+
+Pregunta 4
+La litosfera posee un carácter:
+a) Líquido y flexible
+b) Gaseoso y expansivo
+c) Sólido, rígido y mayoritariamente compuesto por materia mineral y rocosa
+d) Parcialmente fundido
+Correcta: c
+
+Pregunta 5
+Etimológicamente, litosfera procede del griego lithos que significa:
+a) Tierra
+b) Roca o piedra
+c) Fuego
+d) Agua
+Correcta: b
+
+Pregunta 6
+La litosfera continental tiene aproximadamente:
+a) 65 kilómetros de espesor
+b) 40 kilómetros de espesor
+c) 120 kilómetros de espesor
+d) 16 kilómetros de espesor
+Correcta: c
+
+Pregunta 7
+En la litosfera oceánica predominan rocas como:
+a) Granitos
+b) Lutitas
+c) Basaltos
+d) Calizas
+Correcta: c
+
+Pregunta 8
+Las placas tectónicas se desplazan en:
+a) La corteza continental
+b) La astenosfera
+c) El núcleo
+d) La biosfera
+Correcta: b
+
+Pregunta 9
+En la astenosfera las placas son desplazadas como resultado de:
+a) Corrientes atmosféricas
+b) Un flujo convectivo vertical y horizontal en el manto
+c) La rotación terrestre
+d) La erosión mecánica
+Correcta: b
+
+Pregunta 10
+En los bordes de las placas, muy inestables, se producen fenómenos como:
+a) Formación de suelos agrícolas
+b) Procesos de litificación
+c) Volcanes y terremotos
+d) Precipitación química
+Correcta: c
+
+Pregunta 11
+Sobre la litosfera existen hasta:
+a) Diez tipos de placas tectónicas
+b) Doce tipos de placas tectónicas
+c) Quince diferentes tipos de placas tectónicas
+d) Veinte tipos de placas tectónicas
+Correcta: c
+
+Pregunta 12
+La placa euroasiática es una zona de mucha colisión con otras placas, lo que genera:
+a) Gran actividad volcánica
+b) Formación exclusiva de llanuras
+c) Erosión química intensa
+d) Sedimentación continua
+Correcta: a
+
+Pregunta 13
+La placa del Pacífico conforma:
+a) La dorsal atlántica
+b) El cinturón de fuego
+c) El mar Rojo
+d) La litosfera continental
+Correcta: b
+
+Pregunta 14
+La placa africana, en su colisión con la placa euroasiática, generó:
+a) El Himalaya
+b) El mar Rojo
+c) Los Andes
+d) Los Alpes y el Mediterráneo
+Correcta: d
+
+Pregunta 15
+Las rocas están formadas por:
+a) Yuxtaposición de elementos pertenecientes a uno o varios minerales
+b) Exclusivamente materia orgánica
+c) Restos metálicos industriales
+d) Material gaseoso solidificado
+Correcta: a
+
+Pregunta 16
+Del estudio de las rocas se encarga la:
+a) Geomorfología
+b) Litología
+c) Mineralogía atmosférica
+d) Petrología marina
+Correcta: b
+
+Pregunta 17
+Para la Geomorfología, el criterio más utilizado para clasificar las rocas es:
+a) Su dureza
+b) Su edad
+c) Su génesis
+d) Su color
+Correcta: c
+
+Pregunta 18
+Las rocas sedimentarias, ígneas y metamórficas se agrupan según:
+a) Su estructura
+b) Su cohesión
+c) Su composición
+d) Su génesis
+Correcta: d
+
+Pregunta 19
+Los sedimentos se depositan generalmente en capas horizontales llamadas:
+a) Filones
+b) Estratos
+c) Placas
+d) Diaclasas
+Correcta: b
+
+Pregunta 20
+El proceso por el cual los sedimentos se transforman en roca se denomina:
+a) Metamorfismo
+b) Fusión
+c) Litificación
+d) Oxidación
+Correcta: c
+
+Pregunta 21
+Las rocas detríticas se forman por:
+a) Transporte, acumulación y cementación de partículas sólidas
+b) Fusión de magma
+c) Ajustes estructurales por presión
+d) Cristalización rápida en superficie
+Correcta: a
+
+Pregunta 22
+Las rocas evaporíticas se forman por:
+a) Transporte mecánico
+b) Compactación tectónica
+c) Precipitación química
+d) Fusión profunda
+Correcta: c
+
+Pregunta 23
+Las rocas carbonatadas están formadas mayoritariamente por:
+a) Silicatos
+b) Carbonatos cálcicos o cálcico-magnésicos
+c) Basaltos
+d) Magmas enfriados
+Correcta: b
+
+Pregunta 24
+Las rocas ígneas también reciben el nombre de:
+a) Metamórficas
+b) Sedimentarias
+c) Magmáticas
+d) Detríticas
+Correcta: c
+
+Pregunta 25
+Las rocas intrusivas o plutónicas cristalizan:
+a) En la superficie terrestre
+b) En el interior de la corteza con enfriamiento lento
+c) En contacto con el agua
+d) En la atmósfera
+Correcta: b
+
+Pregunta 26
+Las rocas extrusivas o volcánicas presentan una textura:
+a) Granular gruesa
+b) Microgranular
+c) Estratificada
+d) Laminada
+Correcta: b
+
+Pregunta 27
+Las rocas metamórficas resultan de:
+a) La fusión completa del magma
+b) La transformación en estado sólido de rocas preexistentes
+c) La precipitación química
+d) La acumulación de detritus
+Correcta: b
+
+Pregunta 28
+Las rocas originales sometidas a metamorfismo se denominan:
+a) Estratos
+b) Magmas
+c) Protolitos
+d) Placas
+Correcta: c
+
+Pregunta 29
+El ciclo geológico de las rocas explica:
+a) La formación exclusiva de rocas sedimentarias
+b) La relación entre los distintos tipos de rocas y procesos geológicos
+c) La clasificación por dureza
+d) La erosión humana
+Correcta: b
+
+Pregunta 30
+La erosión se define como:
+a) La acumulación de materiales
+b) La cristalización de minerales
+c) La eliminación de material que produce pérdida de masa
+d) La formación de cordilleras
+Correcta: c
+
+Pregunta 31
+La erosión es un proceso realizado por:
+a) Los agentes geológicos internos
+b) Los agentes geológicos externos
+c) La fusión del magma
+d) La litificación
+Correcta: b
+
+Pregunta 32
+Los principales agentes que actúan en la erosión son:
+a) Agua, hielo, viento y diferencia de temperaturas
+b) Placas tectónicas exclusivamente
+c) Magmas superficiales
+d) Núcleo terrestre
+Correcta: a
+
+Pregunta 33
+La erosión mecánica consiste en:
+a) Disolver la roca
+b) Transformar químicamente los minerales
+c) Disgregar físicamente las rocas en fragmentos
+d) Fundir los materiales
+Correcta: c
+
+Pregunta 34
+Las altas variaciones de temperatura entre el día y la noche provocan en las rocas:
+a) Compactación
+b) Cristalización
+c) Sedimentación
+d) Contracciones y dilataciones
+Correcta: d
+
+Pregunta 35
+Cuando el agua penetra en grietas y la temperatura desciende por debajo de 0 °C:
+a) Se evapora
+b) Se expande
+c) Se solidifica sin cambio de volumen
+d) Disuelve la roca inmediatamente
+Correcta: b
+
+Pregunta 36
+Las aguas continentales son un agente erosivo de:
+a) Segunda magnitud
+b) Importancia secundaria
+c) Primera magnitud
+d) Escasa influencia
+Correcta: c
+
+Pregunta 37
+La erosión química se lleva a cabo por medio del agua o:
+a) Agentes gaseosos de la atmósfera como oxígeno y dióxido de carbono
+b) Movimientos tectónicos
+c) Radiación solar
+d) Presión del núcleo
+Correcta: a
+
+Pregunta 38
+La disolución afecta especialmente a:
+a) Rocas ígneas
+b) Rocas metamórficas
+c) Rocas sedimentarias
+d) Rocas volcánicas exclusivamente
+Correcta: c
+
+Pregunta 39
+La oxidación produce tonalidades:
+a) Azuladas
+b) Rojizas, ocres o parduzcas
+c) Negras brillantes
+d) Blancas puras
+Correcta: b
+
+Pregunta 40
+La hidrólisis es:
+a) La solidificación del magma
+b) La cristalización rápida
+c) La descomposición química de una sustancia por el agua
+d) La compactación mecánica
+Correcta: c
+
+Pregunta 41
+La carbonatación consiste en:
+a) La acción del oxígeno exclusivamente
+b) La acción del dióxido de carbono
+c) La fusión de carbonatos
+d) La evaporación del agua
+Correcta: b
+
+Pregunta 42
+La erosión biológica puede actuar sobre rocas que ya presentan:
+a) Estratos horizontales
+b) Cristales visibles
+c) Fisuras
+d) Basaltos recientes
+Correcta: c
+
+Pregunta 43
+Los líquenes son considerados:
+a) Indicadores o pioneros de la formación de suelos
+b) Agentes tectónicos
+c) Rocas sedimentarias
+d) Minerales evaporíticos
+Correcta: a
+
+Pregunta 44
+Los animales ejercen erosión mecánica mediante:
+a) Precipitación química
+b) Excavación o construcción de nidos y madrigueras
+c) Cristalización magmática
+d) Compactación de sedimentos
+Correcta: b
+
+Pregunta 45
+La erosión humana se puede clasificar en:
+a) Mecánica y química
+b) Biológica y tectónica
+c) Explotación y construcción
+d) Disolución y oxidación
+Correcta: c
+
+Pregunta 46
+La agricultura y la urbanización aceleran la erosión porque:
+a) Aumentan la presión tectónica
+b) Destruyen parcial o totalmente la capa protectora de la vegetación
+c) Generan litificación
+d) Reducen la humedad
+Correcta: b
+
+Pregunta 47
+El relieve de una región es:
+a) La suma de procesos tectónicos exclusivamente
+b) El conjunto de todos los tipos de modelados que en ella se observan
+c) Una estructura fija y definitiva
+d) Solo grandes cordilleras
+Correcta: b
+
+Pregunta 48
+El relieve no es algo fijo porque:
+a) Se modifica ininterrumpidamente a escala geológica
+b) Está completamente consolidado
+c) Solo depende del clima actual
+d) No cambia desde su formación
+Correcta: a
+
+Pregunta 49
+Entre los factores del modelado del relieve destaca:
+a) La rotación terrestre exclusivamente
+b) El clima
+c) La distancia al Sol
+d) La actividad lunar
+Correcta: b
+
+Pregunta 50
+La topografía irregular de la superficie terrestre es consecuencia de:
+a) Procesos internos y externos que afectan a rocas de distinta naturaleza
+b) Exclusivamente la erosión química
+c) La acción de los océanos
+d) La actividad humana exclusivamente
+Correcta: a
+
+Pregunta 51
+La litosfera forma parte de:
+a) La capa más exterior que rodea la Tierra desde el interior de la superficie
+b) La astenosfera blanda
+c) El núcleo interno
+d) El manto profundo exclusivamente
+Correcta: a
+
+Pregunta 52
+La litosfera oceánica tiene un espesor aproximado de:
+a) 120 km
+b) 16–40 km
+c) 65 km
+d) 200 km
+Correcta: c
+
+Pregunta 53
+En el fondo de la litosfera oceánica se forman cordilleras de hasta:
+a) 2 km de espesor
+b) 7 km de espesor
+c) 15 km de espesor
+d) 40 km de espesor
+Correcta: b
+
+Pregunta 54
+El desplazamiento de las placas tectónicas se produce porque en la astenosfera:
+a) Las rocas están completamente sólidas
+b) Existe presión atmosférica elevada
+c) Las rocas se encuentran en estado de fusión
+d) No hay diferencias térmicas
+Correcta: c
+
+Pregunta 55
+El flujo convectivo en el manto está impulsado por diferencias de:
+a) Altitud
+b) Temperatura y densidad de los materiales
+c) Humedad
+d) Salinidad
+Correcta: b
+
+Pregunta 56
+La placa arábiga se caracteriza por:
+a) Ser la más extensa del planeta
+b) Estar en proceso de apertura el mar Rojo en su límite occidental
+c) Formar el cinturón de fuego
+d) Ser exclusivamente oceánica
+Correcta: b
+
+Pregunta 57
+El granito es un ejemplo de roca ígnea:
+a) Extrusiva
+b) Sedimentaria
+c) Intrusiva o plutónica
+d) Metamórfica
+Correcta: c
+
+Pregunta 58
+El basalto es un ejemplo de roca ígnea:
+a) Intrusiva
+b) Extrusiva o volcánica
+c) Metamórfica
+d) Detrítica
+Correcta: b
+
+Pregunta 59
+La textura granular visible a simple vista indica:
+a) Enfriamiento rápido del magma
+b) Enfriamiento lento del magma
+c) Disolución química
+d) Compactación mecánica
+Correcta: b
+
+Pregunta 60
+La roca metamórfica generada depende de:
+a) La presión exclusivamente
+b) La temperatura exclusivamente
+c) La composición y textura de la roca original y de los agentes del metamorfismo
+d) El clima superficial
+Correcta: c
+
+Pregunta 61
+El metamorfismo implica modificación:
+a) En estado líquido
+b) En estado sólido
+c) En estado gaseoso
+d) Mediante fusión completa
+Correcta: b
+
+Pregunta 62
+La erosión se completa con procesos de:
+a) Transporte y sedimentación
+b) Fusión y cristalización
+c) Compactación y metamorfismo
+d) Oxidación y carbonatación exclusivamente
+Correcta: a
+
+Pregunta 63
+La erosión mecánica por temperatura afecta más intensamente cuando:
+a) Hay humedad constante
+b) Existen fuertes variaciones térmicas diurnas y nocturnas
+c) La roca es volcánica
+d) El clima es polar exclusivamente
+Correcta: b
+
+Pregunta 64
+La hidratación puede provocar aumentos de volumen de hasta:
+a) 10%
+b) 25%
+c) 50%
+d) 75%
+Correcta: c
+
+Pregunta 65
+La hidrólisis es el proceso que ha originado la mayoría de:
+a) Basaltos
+b) Granitos
+c) Materiales arcillosos
+d) Estratos carbonatados
+Correcta: c
+
+Pregunta 66
+La erosión biológica tiene gran importancia especialmente en:
+a) Formación del núcleo
+b) Formación de los suelos
+c) Formación de magmas
+d) Formación de cordilleras
+Correcta: b
+
+Pregunta 67
+El relieve se conforma por la acción combinada de:
+a) Solo agentes internos
+b) Solo agentes externos
+c) Agentes geológicos internos y externos
+d) Exclusivamente el clima
+Correcta: c
+
+Pregunta 68
+Los plegamientos y fracturas son producidos por:
+a) La erosión química
+b) Esfuerzos tectónicos
+c) Acción del viento
+d) Litificación
+Correcta: b
+
+Pregunta 69
+El relieve es considerado una situación:
+a) Definitiva
+b) Transitoria e instantánea a escala geológica
+c) Inmutable
+d) Estática
+Correcta: b
+
+Pregunta 70
+Las grandes unidades morfoestructurales incluyen:
+a) Estratos y diaclasas
+b) Cordilleras y llanuras costeras
+c) Minerales y rocas
+d) Placas y fallas exclusivamente
+Correcta: b
+
+Pregunta 71
+El modelado del relieve depende, entre otros factores, de:
+a) Clima
+b) Composición de las rocas
+c) Estructura de las rocas
+d) Todas las anteriores
+Correcta: d
+
+Pregunta 72
+En climas áridos y subáridos, las lluvias torrenciales afectan:
+a) Solo al cauce del río
+b) A grandes áreas de forma esporádica pero intensa
+c) Únicamente a la montaña
+d) A zonas polares
+Correcta: b
+
+Pregunta 73
+No se altera igual un granito que una caliza porque influye:
+a) La presión atmosférica
+b) La naturaleza litológica de la roca
+c) La altitud
+d) El núcleo terrestre
+Correcta: b
+
+Pregunta 74
+Las laderas son fácilmente erosionadas si los estratos están:
+a) Horizontales
+b) Verticales
+c) Inclinados en el sentido de la pendiente
+d) Metamorfizados
+Correcta: c
+
+Pregunta 75
+Las fuerzas internas son fundamentales en la configuración inicial del relieve porque:
+a) Modifican la disposición de las rocas
+b) Disuelven los minerales
+c) Generan suelos
+d) Producen carbonatación
+Correcta: a
+
+Pregunta 76
+El impacto humano en el medio posee elevada capacidad de alteración debido a:
+a) Su carácter biológico
+b) Sus progresivos avances técnicos
+c) La erosión natural
+d) El clima
+Correcta: b
+
+Pregunta 77
+El mar Rojo es considerado:
+a) El cuerpo marino más antiguo
+b) El cuerpo marino más reciente
+c) Una dorsal oceánica
+d) Un océano profundo
+Correcta: b
+
+Pregunta 78
+Las rocas sedimentarias pueden contener restos de organismos que se convierten en:
+a) Magmas
+b) Minerales
+c) Fósiles
+d) Basaltos
+Correcta: c
+
+Pregunta 79
+Los minerales disueltos que llenan los intersticios de los sedimentos actúan mediante:
+a) Oxidación
+b) Cementación
+c) Fusión
+d) Metamorfismo
+Correcta: b
+
+Pregunta 80
+El relieve continental puede rejuvenecerse cuando:
+a) Se produce sedimentación
+b) Se elevan sus materiales rocosos
+c) Se forma litificación
+d) Se oxidan los minerales
+Correcta: b
+
+Pregunta 81
+La corteza terrestre ha sufrido numerosas alteraciones causadas por:
+a) Los agentes externos exclusivamente
+b) Las fuerzas internas del planeta
+c) La erosión biológica
+d) La acción humana
+Correcta: b
+
+Pregunta 82
+La erosión produce fragmentos de rocas y minerales que pueden ser:
+a) Destruidos completamente
+b) Transportados y depositados a otros niveles
+c) Fundidos en el manto
+d) Transformados en magma
+Correcta: b
+
+Pregunta 83
+Los agentes geológicos externos atacan, destruyen y modifican:
+a) El núcleo terrestre
+b) Las estructuras del relieve
+c) Las placas tectónicas profundas
+d) La astenosfera
+Correcta: b
+
+Pregunta 84
+La erosión mecánica por humedad es especialmente intensa cuando interviene:
+a) Vapor de agua
+b) Agua líquida
+c) Hielo
+d) Oxígeno
+Correcta: c
+
+Pregunta 85
+Las rocas de las capas más superficiales presentan habitualmente:
+a) Cristales visibles
+b) Grietas o fisuras
+c) Estratos verticales
+d) Basaltos
+Correcta: b
+
+Pregunta 86
+En la erosión química, los granos minerales pierden:
+a) Densidad
+b) Volumen
+c) Adherencia
+d) Temperatura
+Correcta: c
+
+Pregunta 87
+La oxidación suele afectar especialmente a rocas con contenido en:
+a) Magnesio
+b) Sodio
+c) Potasio
+d) Hierro
+Correcta: d
+
+Pregunta 88
+El agua carbonatada reacciona con minerales predominantes de:
+a) Hierro y sílice
+b) Calcio, magnesio, sodio o potasio
+c) Oro y plata
+d) Basalto y granito
+Correcta: b
+
+Pregunta 89
+Las raíces de los árboles pueden generar rotura y desprendimiento de rocas porque:
+a) Aumentan la temperatura
+b) Disuelven químicamente la roca
+c) Imprimen presión conforme crecen
+d) Generan oxidación
+Correcta: c
+
+Pregunta 90
+Los pequeños invertebrados favorecen la erosión al:
+a) Compactar el terreno
+b) Airear el terreno y permitir la entrada de agua
+c) Fundir minerales
+d) Generar litificación
+Correcta: b
+
+Pregunta 91
+Las explotaciones mineras han contribuido a:
+a) Formar nuevas placas
+b) Modelar paisajes característicos
+c) Reducir la erosión
+d) Generar metamorfismo
+Correcta: b
+
+Pregunta 92
+Los agentes geológicos internos son también denominados:
+a) Destructivos
+b) Erosivos
+c) Constructivos
+d) Químicos
+Correcta: c
+
+Pregunta 93
+Algunas masas de rocas sedimentarias pueden incorporarse al ambiente tras:
+a) Procesos de oxidación
+b) Procesos de plegamiento y fractura
+c) Litificación
+d) Carbonatación
+Correcta: b
+
+Pregunta 94
+Las grandes unidades morfoestructurales dan lugar a:
+a) La rugosidad de las superficies continentales
+b) La formación de suelos
+c) La litificación
+d) La oxidación
+Correcta: a
+
+Pregunta 95
+Muchas formas del relieve tienen su origen:
+a) Hace miles de años
+b) Hace millones de años
+c) En la actualidad
+d) En el último siglo
+Correcta: b
+
+Pregunta 96
+En climas templados y húmedos, los ríos limitan su acción principalmente:
+a) A grandes áreas extensas
+b) Al cauce y esporádicamente a la llanura de inundación
+c) A zonas áridas
+d) A regiones volcánicas
+Correcta: b
+
+Pregunta 97
+La estructura de las rocas condiciona el modelado debido a:
+a) Su color
+b) Su densidad atmosférica
+c) Los esfuerzos tectónicos que producen plegamiento y fracturación
+d) La erosión humana
+Correcta: c
+
+Pregunta 98
+Las fuerzas internas modifican la disposición de las rocas dejándolas:
+a) Sin deformación
+b) Deformadas en mayor o menor medida
+c) Completamente fundidas
+d) Disueltas
+Correcta: b
+
+Pregunta 99
+El relieve está compuesto por grandes unidades morfoestructurales cuyo modelado depende de factores:
+a) Exclusivamente internos
+b) Exclusivamente externos
+c) Internos y externos manifestados en distintas escalas temporales
+d) Humanos exclusivamente
+Correcta: c
+
+Pregunta 100
+Las características de los materiales que forman las estructuras del relieve explican:
+a) Su apariencia y cambio a lo largo de millones de años
+b) La formación del núcleo
+c) La creación de placas nuevas
+d) La desaparición de la erosión
+Correcta: a

@@ -1,0 +1,559 @@
+Pregunta 1
+La Geografía siempre ha ocupado un lugar privilegiado en:
+a) La literatura clásica
+b) El análisis espacial
+c) La química orgánica
+d) La biología celular
+Correcta: b
+
+Pregunta 2
+La Geografía considera la Tierra como:
+a) Un sistema químico cerrado
+b) Un fenómeno exclusivamente físico
+c) Un medio del ser humano
+d) Un planeta aislado sin relación humana
+Correcta: c
+
+Pregunta 3
+La Geografía física trabaja sobre:
+a) La envoltura terrestre y las formas físicas
+b) Los sistemas políticos
+c) Las leyes económicas
+d) La genética humana
+Correcta: a
+
+Pregunta 4
+La Geografía regional estudia:
+a) Las células humanas
+b) La estructura atómica
+c) Las fórmulas químicas
+d) Las áreas en que se divide la superficie terrestre
+Correcta: d
+
+Pregunta 5
+La Geografía ecológica analiza:
+a) Los efectos espaciales del medio natural en los seres humanos
+b) Las revoluciones industriales
+c) Las teorías filosóficas
+d) Los sistemas financieros
+Correcta: a
+
+Pregunta 6
+La Geografía paisajística se refiere a:
+a) La genética vegetal
+b) La política internacional
+c) La fisonomía de la superficie terrestre
+d) La física cuántica
+Correcta: c
+
+Pregunta 7
+La Geografía espacial tiene en cuenta:
+a) La literatura medieval
+b) La anatomía humana
+c) La energía nuclear
+d) La localización y distribución de fenómenos
+Correcta: d
+
+Pregunta 8
+La Geografía social considera:
+a) La tectónica interna
+b) Las sociedades humanas en su distribución espacial
+c) La química orgánica
+d) La biología molecular
+Correcta: b
+
+Pregunta 9
+La Geografía es considerada una ciencia de:
+a) Síntesis
+b) Memorización
+c) Especulación literaria
+d) Imaginación artística
+Correcta: a
+
+Pregunta 10
+El principio de localización y distribución se refiere a:
+a) La historia antigua
+b) La extensión y alcance de los fenómenos
+c) La política exterior
+d) La genética humana
+Correcta: b
+
+Pregunta 11
+El principio de generalización consiste en:
+a) La memorización de datos
+b) La reducción de mapas
+c) La búsqueda de analogías y semejanzas
+d) La eliminación de escalas
+Correcta: c
+
+Pregunta 12
+El principio de actividad estudia:
+a) Cambios, evoluciones y transformaciones
+b) Inmovilidad permanente
+c) Uniformidad espacial
+d) Estabilidad absoluta
+Correcta: a
+
+Pregunta 13
+El principio de causalidad implica:
+a) Ignorar consecuencias
+b) Separar fenómenos
+c) Memorizar mapas
+d) La búsqueda de causas y efectos
+Correcta: d
+
+Pregunta 14
+El principio de conexión analiza:
+a) Procesos aislados
+b) Relaciones entre causas y efectos
+c) Fórmulas químicas
+d) Relatos históricos
+Correcta: b
+
+Pregunta 15
+Los modelos icónicos representan:
+a) Textos literarios
+b) Leyes económicas
+c) Propiedades a una escala diferente
+d) Solo símbolos abstractos
+Correcta: c
+
+Pregunta 16
+Los modelos analógicos representan:
+a) Una propiedad por medio de otra
+b) Escalas exactas reales
+c) Mapas físicos exclusivamente
+d) Datos estadísticos aislados
+Correcta: a
+
+Pregunta 17
+Los modelos simbólicos representan la realidad mediante:
+a) Fotografías reales
+b) Símbolos
+c) Esculturas
+d) Relatos escritos
+Correcta: b
+
+Pregunta 18
+Los Sistemas de Información Geográfica (SIG) son:
+a) Libros antiguos
+b) Modelos literarios
+c) Procedimientos técnicos para referir información a puntos de la superficie terrestre
+d) Tratados filosóficos
+Correcta: c
+
+Pregunta 19
+Los SIG permiten:
+a) Gestionar bases de datos espaciales
+b) Editar textos históricos
+c) Escribir novelas
+d) Analizar poemas
+Correcta: a
+
+Pregunta 20
+El medio físico es el lugar de interacción entre:
+a) Sistemas políticos
+b) Litosfera, Hidrosfera y Atmósfera
+c) Instituciones económicas
+d) Fronteras administrativas
+Correcta: b
+
+Pregunta 21
+La superficie terrestre es considerada como:
+a) Un sistema cerrado sin relaciones
+b) Una división política
+c) Un plano de contacto entre diferentes esferas
+d) Un espacio vacío
+Correcta: c
+
+Pregunta 22
+El territorio es:
+a) Un concepto químico
+b) Un espacio abstracto sin identidad
+c) Una fórmula matemática
+d) Un espacio localizado con características naturales específicas
+Correcta: d
+
+Pregunta 23
+El territorio se basa en:
+a) Una reacción química
+b) Un proceso de apropiación
+c) Un fenómeno físico aislado
+d) Una fórmula biológica
+Correcta: b
+
+Pregunta 24
+El territorio es producto de:
+a) La literatura
+b) La genética
+c) La actividad humana
+d) La casualidad absoluta
+Correcta: c
+
+Pregunta 25
+El territorio es dinámico porque:
+a) No cambia nunca
+b) Es uniforme
+c) Es estático
+d) Depende de su configuración anterior
+Correcta: d
+
+Pregunta 26
+La definición de territorio es relativa a:
+a) El grupo social que lo ocupa
+b) La atmósfera exclusivamente
+c) La hidrosfera exclusivamente
+d) La litosfera exclusivamente
+Correcta: a
+
+Pregunta 27
+El territorio puede producir:
+a) Neutralidad absoluta
+b) Uniformidad global
+c) Identidad
+d) Aislamiento total
+Correcta: c
+
+Pregunta 28
+La Geografía estudia la diferenciación del espacio en:
+a) La superficie terrestre
+b) El espacio exterior
+c) El ámbito literario
+d) El sistema financiero
+Correcta: a
+
+Pregunta 29
+La organización del espacio geográfico implica:
+a) Aislamiento de fenómenos
+b) Relaciones espaciales
+c) Uniformidad total
+d) Inmovilidad permanente
+Correcta: b
+
+Pregunta 30
+La Geografía actual emplea:
+a) Técnicas exclusivamente manuales
+b) Métodos tradicionales sin cambios
+c) Nuevas técnicas y metodologías de análisis
+d) Solo observación visual
+Correcta: c
+
+Pregunta 31
+La Geografía ha pasado de una concepción tradicional a otra más:
+a) Literaria
+b) Filosófica
+c) Científica y cuantitativa
+d) Artística
+Correcta: c
+
+Pregunta 32
+El análisis espacial diferencial permite:
+a) Reducir la información
+b) Comprender distintos aspectos de la realidad
+c) Eliminar relaciones
+d) Ignorar escalas
+Correcta: b
+
+Pregunta 33
+Los mapas fueron perfeccionándose especialmente a partir de:
+a) La Edad Media
+b) El siglo XVIII
+c) Finales del siglo XX
+d) La Antigüedad clásica
+Correcta: c
+
+Pregunta 34
+La conversión al formato digital permitió:
+a) Eliminar datos espaciales
+b) Introducir datos en un Sistema de Información Geográfica
+c) Sustituir completamente los mapas
+d) Reducir la precisión
+Correcta: b
+
+Pregunta 35
+Una aplicación notable de las nuevas técnicas se encuentra en:
+a) La literatura comparada
+b) La biología molecular
+c) La cartografía
+d) La filosofía política
+Correcta: c
+
+Pregunta 36
+Las nuevas técnicas cartográficas ofrecen:
+a) Menor precisión
+b) Mayor precisión y confianza
+c) Resultados aleatorios
+d) Información incompleta
+Correcta: b
+
+Pregunta 37
+La ecología aborda el estudio de los seres vivos en relación con:
+a) El comercio internacional
+b) El medio ambiente
+c) La política exterior
+d) La literatura clásica
+Correcta: b
+
+Pregunta 38
+El concepto de ecosistema es entendido como:
+a) Un sistema formado por organismos vivos y medio físico
+b) Una división política
+c) Un modelo literario
+d) Un fenómeno químico
+Correcta: a
+
+Pregunta 39
+El medio geográfico integra:
+a) Solo el medio físico
+b) Solo el medio humano
+c) El medio físico y el medio humano
+d) Únicamente el relieve
+Correcta: c
+
+Pregunta 40
+El territorio fue poco utilizado hasta los años:
+a) 40
+b) 50
+c) 60
+d) 70
+Correcta: d
+
+Pregunta 41
+A partir de los años 70 surge la pretensión de dedicarse a:
+a) La literatura territorial
+b) La ordenación del territorio
+c) La química espacial
+d) La física atmosférica
+Correcta: b
+
+Pregunta 42
+Una característica del territorio es que está:
+a) Localizado
+b) Aislado del medio
+c) Desconectado socialmente
+d) Desvinculado del grupo humano
+Correcta: a
+
+Pregunta 43
+El territorio presenta signos de apropiación como:
+a) Reacciones químicas
+b) Procesos biológicos
+c) Denominación y delimitación de fronteras
+d) Fenómenos meteorológicos
+Correcta: c
+
+Pregunta 44
+El territorio es considerado también como:
+a) Un producto social
+b) Un fenómeno químico
+c) Una estructura biológica
+d) Un sistema cerrado natural
+Correcta: a
+
+Pregunta 45
+El territorio puede contener elementos:
+a) Exclusivamente físicos
+b) Simbólicos
+c) Solo económicos
+d) Solo naturales
+Correcta: b
+
+Pregunta 46
+El interés por el territorio se difundió especialmente en los años:
+a) 50
+b) 60
+c) 70
+d) 80
+Correcta: d
+
+Pregunta 47
+La Geografía estudia la relación de los humanos con:
+a) El medio
+b) La literatura
+c) La química
+d) La genética
+Correcta: a
+
+Pregunta 48
+La diferenciación del espacio implica:
+a) Igualdad absoluta entre lugares
+b) Variaciones y diferencias espaciales
+c) Uniformidad permanente
+d) Ausencia de cambios
+Correcta: b
+
+Pregunta 49
+El espacio geográfico se organiza mediante:
+a) Relaciones espaciales
+b) Aislamiento total
+c) Inmovilidad
+d) Uniformidad
+Correcta: a
+
+Pregunta 50
+La Geografía considera el territorio como eje fundamental porque:
+a) Es un concepto literario
+b) Es un sistema químico
+c) Integra medio físico y humano
+d) Es una división matemática
+Correcta: c
+
+Pregunta 51
+La Geografía, como disciplina científica moderna, se caracteriza por:
+a) Su rechazo a la cuantificación
+b) Su carácter exclusivamente descriptivo
+c) La incorporación de metodologías cuantitativas
+d) El abandono del análisis espacial
+Correcta: c
+
+Pregunta 52
+El análisis espacial no se limita únicamente a la localización, sino que implica también:
+a) Interpretación de relaciones
+b) Enumeración de datos
+c) Clasificación biológica
+d) Observación literaria
+Correcta: a
+
+Pregunta 53
+La representación espacial diferencial permite:
+a) Homogeneizar el territorio
+b) Aislar fenómenos
+c) Analizar distintas dimensiones de una misma realidad
+d) Eliminar variables
+Correcta: c
+
+Pregunta 54
+La Geografía como ciencia de síntesis implica que:
+a) Integra conocimientos de distintas disciplinas
+b) Se centra solo en el medio físico
+c) Estudia exclusivamente fenómenos humanos
+d) Elimina la causalidad
+Correcta: a
+
+Pregunta 55
+El principio de conexión exige:
+a) Estudiar los fenómenos de forma aislada
+b) Analizar interrelaciones entre elementos espaciales
+c) Describir sin interpretar
+d) Ignorar efectos secundarios
+Correcta: b
+
+Pregunta 56
+El principio de actividad introduce la idea de que el espacio es:
+a) Estático
+b) Uniforme
+c) Dinámico
+d) Abstracto
+Correcta: c
+
+Pregunta 57
+Los modelos simbólicos no representan la realidad por semejanza física, sino mediante:
+a) Analogías
+b) Convenciones
+c) Escalas
+d) Fotografías
+Correcta: b
+
+Pregunta 58
+Un Sistema de Información Geográfica no solo almacena datos, sino que permite:
+a) Procesarlos y analizarlos espacialmente
+b) Convertirlos en textos literarios
+c) Sustituir el territorio real
+d) Eliminar variables espaciales
+Correcta: a
+
+Pregunta 59
+El territorio no es únicamente una base física, sino también:
+a) Un concepto neutro
+b) Una construcción social
+c) Un fenómeno químico
+d) Un espacio inmutable
+Correcta: b
+
+Pregunta 60
+El carácter dinámico del territorio implica que:
+a) Permanece idéntico en el tiempo
+b) Evoluciona según procesos sociales e históricos
+c) Es independiente del grupo humano
+d) No depende de su configuración previa
+Correcta: b
+
+Pregunta 61
+La apropiación territorial supone:
+a) Ausencia de delimitación
+b) Nombrar y delimitar espacios
+c) Eliminación de identidad
+d) Neutralidad simbólica
+Correcta: b
+
+Pregunta 62
+La diferenciación espacial es fundamental en Geografía porque:
+a) Todos los espacios son equivalentes
+b) Permite comprender desigualdades y contrastes
+c) Reduce la complejidad
+d) Sustituye la causalidad
+Correcta: b
+
+Pregunta 63
+El paisaje, desde la perspectiva geográfica, no es solo una imagen visual sino:
+a) Un sistema complejo
+b) Una representación artística
+c) Un fenómeno subjetivo exclusivamente
+d) Un concepto literario
+Correcta: a
+
+Pregunta 64
+La Geografía ecológica enfatiza:
+a) Relaciones sociedad-naturaleza
+b) Exclusivamente ecosistemas naturales
+c) Solo procesos físicos
+d) La literatura ambiental
+Correcta: a
+
+Pregunta 65
+La organización del espacio geográfico implica simultáneamente:
+a) Estructura y relaciones
+b) Aislamiento y uniformidad
+c) Inmovilidad y estabilidad
+d) Neutralidad territorial
+Correcta: a
+
+Pregunta 66
+La consolidación del concepto de territorio en los años 70 se vincula a:
+a) La cartografía medieval
+b) La ordenación territorial
+c) La expansión colonial
+d) La geografía clásica
+Correcta: b
+
+Pregunta 67
+El espacio geográfico puede entenderse como:
+a) Un soporte físico exclusivamente
+b) Un entramado de relaciones
+c) Un plano abstracto sin contenido
+d) Un fenómeno químico
+Correcta: b
+
+Pregunta 68
+La Geografía actual supera la mera descripción mediante:
+a) Interpretación causal y análisis relacional
+b) Enumeración estadística sin análisis
+c) Observación pasiva
+d) Reducción de variables
+Correcta: a
+
+Pregunta 69
+El medio geográfico se configura a partir de:
+a) Exclusivamente factores naturales
+b) Exclusivamente factores humanos
+c) Interacción entre medio físico y acción humana
+d) Procesos biológicos únicamente
+Correcta: c
+
+Pregunta 70
+El territorio puede generar identidad porque:
+a) Es un concepto matemático
+b) Contiene elementos simbólicos y sociales
+c) Es uniforme
+d) Es independiente de la sociedad
+Correcta: b

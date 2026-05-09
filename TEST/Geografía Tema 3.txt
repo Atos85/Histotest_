@@ -1,0 +1,551 @@
+Pregunta 1
+La homosfera se extiende:
+a) Desde la superficie hasta unos 10 km
+b) Desde los 100 km hasta el espacio exterior
+c) Desde el suelo hasta unos 80-100 km
+d) Solo en la estratosfera
+Correcta: c
+
+Pregunta 2
+El gas más abundante en la atmósfera es:
+a) Oxígeno
+b) Dióxido de carbono
+c) Argón
+d) Nitrógeno
+Correcta: d
+
+Pregunta 3
+El efecto invernadero se produce porque:
+a) La radiación solar se refleja completamente
+b) La radiación terrestre es absorbida parcialmente por ciertos gases
+c) El vapor de agua elimina el calor
+d) La atmósfera no permite la entrada de radiación solar
+Correcta: b
+
+Pregunta 4
+La capa de la atmósfera donde se desarrollan los fenómenos meteorológicos es:
+a) Estratosfera
+b) Mesosfera
+c) Troposfera
+d) Termosfera
+Correcta: c
+
+Pregunta 5
+La temperatura en la troposfera:
+a) Aumenta con la altura
+b) Se mantiene constante
+c) Disminuye con la altura
+d) No depende de la altura
+Correcta: c
+
+Pregunta 6
+La capa de ozono se localiza en:
+a) Troposfera
+b) Estratosfera
+c) Mesosfera
+d) Termosfera
+Correcta: b
+
+Pregunta 7
+La mesosfera se caracteriza por:
+a) Aumentar la temperatura con la altura
+b) Mantener temperatura constante
+c) Disminuir la temperatura hasta aproximadamente -90 °C
+d) Tener la capa de ozono
+Correcta: c
+
+Pregunta 8
+La termosfera presenta:
+a) Temperaturas decrecientes hasta -60 °C
+b) Temperaturas constantes
+c) Temperaturas crecientes hasta unos 1000 °C
+d) Ausencia total de gases
+Correcta: c
+
+Pregunta 9
+La troposfera contiene aproximadamente:
+a) El 25% de la masa atmosférica
+b) El 50% de la masa atmosférica
+c) El 75% de la masa atmosférica
+d) El 100% de la masa atmosférica
+Correcta: c
+
+Pregunta 10
+El término “tropos” significa:
+a) Aire
+b) Calor
+c) Cambio
+d) Movimiento
+Correcta: c
+
+Pregunta 11
+La capa límite planetaria:
+a) Supera siempre los 5000 m
+b) No varía nunca de grosor
+c) No supera normalmente los 1000 m
+d) Se encuentra en la estratosfera
+Correcta: c
+
+Pregunta 12
+El tiempo se define como:
+a) Promedio de condiciones durante 30 años
+b) Estado de la atmósfera en un momento determinado
+c) Tendencia climática global
+d) Variación anual del clima
+Correcta: b
+
+Pregunta 13
+El clima se define como:
+a) Estado momentáneo de la atmósfera
+b) Cambios diarios del tiempo
+c) Promedio de condiciones durante largos periodos
+d) Variaciones horarias del aire
+Correcta: c
+
+Pregunta 14
+El periodo de referencia para definir el clima suele ser:
+a) 10 años
+b) 20 años
+c) 30 años
+d) 50 años
+Correcta: c
+
+Pregunta 15
+Los elementos del clima son:
+a) Variables que influyen en el clima
+b) Características que permiten evaluarlo y clasificarlo
+c) Factores humanos exclusivamente
+d) Solo la temperatura
+Correcta: b
+
+Pregunta 16
+Los factores climáticos son:
+a) Características de medición
+b) Variables que describen los rasgos del clima
+c) Solo precipitaciones
+d) Valores constantes
+Correcta: b
+
+Pregunta 17
+La clasificación climática de Köppen fue creada en:
+a) 1784
+b) 1884
+c) 1900
+d) 1950
+Correcta: b
+
+Pregunta 18
+La clasificación de Köppen se basa en:
+a) Relieve y altitud
+b) Vientos
+c) Temperatura y precipitaciones
+d) Latitud exclusivamente
+Correcta: c
+
+Pregunta 19
+Los climas tropicales se localizan:
+a) Entre 40° y 70°
+b) En los polos
+c) Entre los trópicos
+d) Solo en Europa
+Correcta: c
+
+Pregunta 20
+En los climas tropicales:
+a) Las temperaturas son inferiores a 0 °C
+b) Las temperaturas superan los 18 °C
+c) No hay precipitaciones
+d) Hay nieve constante
+Correcta: b
+
+Pregunta 21
+El clima ecuatorial se caracteriza por:
+a) Grandes variaciones térmicas
+b) Temperaturas uniformes y alta humedad
+c) Sequedad extrema
+d) Inviernos muy fríos
+Correcta: b
+
+Pregunta 22
+El clima tropical seco y húmedo presenta:
+a) Precipitaciones constantes
+b) Ausencia de estaciones
+c) Alternancia de estación seca y lluviosa
+d) Temperaturas bajo cero
+Correcta: c
+
+Pregunta 23
+Los climas monzónicos se caracterizan por:
+a) Sequedad permanente
+b) Inversión estacional de lluvias
+c) Temperaturas bajas
+d) Ausencia de viento
+Correcta: b
+
+Pregunta 24
+Los climas secos se caracterizan por:
+a) Exceso de precipitaciones
+b) Balance hídrico positivo
+c) Escasez de precipitaciones y alta evaporación
+d) Temperaturas bajas
+Correcta: c
+
+Pregunta 25
+Los climas templados se sitúan aproximadamente entre:
+a) 0° y 20°
+b) 20° y 30°
+c) 40° y 70°
+d) 70° y 90°
+Correcta: c
+
+Pregunta 26
+El clima mediterráneo presenta:
+a) Veranos lluviosos
+b) Inviernos secos
+c) Veranos secos y calurosos
+d) Temperaturas constantes
+Correcta: c
+
+Pregunta 27
+El clima oceánico se caracteriza por:
+a) Gran amplitud térmica
+b) Temperaturas extremas
+c) Suavidad térmica y alta humedad
+d) Sequedad
+Correcta: c
+
+Pregunta 28
+Los climas polares se caracterizan por:
+a) Temperaturas superiores a 20 °C
+b) Ausencia de frío
+c) Temperaturas bajo 0 °C continuas
+d) Lluvias constantes
+Correcta: c
+
+Pregunta 29
+El clima de tundra presenta:
+a) Veranos largos
+b) Temperaturas muy altas
+c) Inviernos rigurosos y corta estación de deshielo
+d) Sequedad total
+Correcta: c
+
+Pregunta 30
+El clima glacial se caracteriza por:
+a) Temperaturas siempre superiores a 0 °C
+b) Temperaturas siempre bajo 0 °C
+c) Alta vegetación
+d) Lluvias abundantes
+Correcta: b
+
+Pregunta 31
+La biogeografía estudia:
+a) La composición química del suelo
+b) La distribución de los seres vivos sobre la Tierra
+c) El clima exclusivamente
+d) La atmósfera
+Correcta: b
+
+Pregunta 32
+La biogeografía se integra principalmente dentro de:
+a) Geografía Humana
+b) Geografía Física
+c) Geología
+d) Meteorología
+Correcta: b
+
+Pregunta 33
+La biogeografía es una disciplina:
+a) Exclusivamente biológica
+b) Exclusivamente geográfica
+c) Transversal entre varias ciencias
+d) Solo histórica
+Correcta: c
+
+Pregunta 34
+El estudio biogeográfico tiene en cuenta:
+a) Solo factores naturales
+b) Solo factores humanos
+c) Factores naturales y humanos
+d) Únicamente el clima
+Correcta: c
+
+Pregunta 35
+Actualmente, el medioambiente depende en gran medida de:
+a) Factores naturales exclusivamente
+b) Factores geológicos
+c) La acción humana
+d) La atmósfera
+Correcta: c
+
+Pregunta 36
+La distribución actual de los seres vivos es resultado de:
+a) Solo la evolución
+b) Solo la acción humana
+c) Evolución, cambios climáticos y actividad humana
+d) Solo el relieve
+Correcta: c
+
+Pregunta 37
+La biogeografía tiene también una dimensión:
+a) Económica
+b) Histórica
+c) Política
+d) Industrial
+Correcta: b
+
+Pregunta 38
+En biogeografía, se presta especial atención a:
+a) El relieve
+b) El clima
+c) La cubierta vegetal
+d) La hidrosfera
+Correcta: c
+
+Pregunta 39
+La cubierta vegetal:
+a) No tiene límites definidos
+b) Se desplaza constantemente
+c) Ocupa un espacio fijo en el suelo
+d) Solo existe en zonas húmedas
+Correcta: c
+
+Pregunta 40
+La hidrosfera ocupa aproximadamente:
+a) 50% de la superficie terrestre
+b) 60%
+c) 70%
+d) 90%
+Correcta: c
+
+Pregunta 41
+El volumen total de agua de la hidrosfera es aproximadamente:
+a) 500 millones km²
+b) 900 millones km²
+c) 1.300 millones km²
+d) 2.000 millones km²
+Correcta: c
+
+Pregunta 42
+El agua de la hidrosfera se distribuye:
+a) De forma uniforme
+b) Solo en océanos
+c) De forma desigual
+d) Solo en continentes
+Correcta: c
+
+Pregunta 43
+El porcentaje de agua salada en la Tierra es aproximadamente:
+a) 50%
+b) 70%
+c) 97%
+d) 80%
+Correcta: c
+
+Pregunta 44
+El porcentaje de agua dulce es aproximadamente:
+a) 10%
+b) 5%
+c) 3%
+d) 1%
+Correcta: c
+
+Pregunta 45
+Las aguas continentales son:
+a) Saladas
+b) Dulces
+c) Subterráneas exclusivamente
+d) Oceánicas
+Correcta: b
+
+Pregunta 46
+Las aguas continentales incluyen principalmente:
+a) Océanos
+b) Mares
+c) Ríos y lagos
+d) Glaciares
+Correcta: c
+
+Pregunta 47
+El origen de las aguas continentales puede ser:
+a) Solo volcánico
+b) Solo oceánico
+c) Precipitaciones o aguas subterráneas
+d) Solo evaporación
+Correcta: c
+
+Pregunta 48
+Los torrentes se caracterizan por:
+a) Ser permanentes
+b) Tener gran caudal
+c) Ser cursos intermitentes
+d) Ser subterráneos
+Correcta: c
+
+Pregunta 49
+Los arroyos son:
+a) Grandes ríos
+b) Ríos permanentes
+c) Pequeños ríos de escaso caudal
+d) Lagos
+Correcta: c
+
+Pregunta 50
+Los humedales son:
+a) Zonas secas
+b) Espacios inundados permanente o temporalmente
+c) Solo ríos
+d) Zonas montañosas
+Correcta: b
+
+Pregunta 51
+Los manglares se localizan en:
+a) Alta montaña
+b) Zonas polares
+c) Costas cálidas
+d) Desiertos
+Correcta: c
+
+Pregunta 52
+El agua subterránea representa aproximadamente:
+a) 10% del agua dulce
+b) 21% del agua dulce
+c) 50% del agua dulce
+d) 70% del agua dulce
+Correcta: b
+
+Pregunta 53
+El agua subterránea se forma por:
+a) Evaporación
+b) Condensación
+c) Infiltración
+d) Transporte
+Correcta: c
+
+Pregunta 54
+Los géiseres son:
+a) Lagos
+b) Ríos
+c) Chorros de agua a presión
+d) Océanos
+Correcta: c
+
+Pregunta 55
+La criosfera incluye:
+a) Solo océanos
+b) Agua en estado gaseoso
+c) Agua en estado sólido
+d) Solo ríos
+Correcta: c
+
+Pregunta 56
+La criosfera se localiza principalmente en:
+a) Zonas ecuatoriales
+b) Zonas templadas
+c) Zonas polares y alta montaña
+d) Desiertos
+Correcta: c
+
+Pregunta 57
+El término criosfera proviene del griego y significa:
+a) Agua
+b) Frío
+c) Nieve
+d) Hielo
+Correcta: b
+
+Pregunta 58
+La banquisa ártica es:
+a) Agua dulce
+b) Hielo marino
+c) Roca
+d) Vapor de agua
+Correcta: b
+
+Pregunta 59
+La Antártida se caracteriza por:
+a) Estar habitada
+b) Ser un océano
+c) Estar permanentemente helada
+d) Tener clima tropical
+Correcta: c
+
+Pregunta 60
+El ciclo hidrológico es:
+a) Movimiento del viento
+b) Circulación del agua entre océanos, atmósfera y continentes
+c) Formación de montañas
+d) Movimiento de placas
+Correcta: b
+
+Pregunta 61
+El agua en el ciclo hidrológico puede estar en:
+a) Dos estados
+b) Cuatro estados
+c) Tres estados
+d) Un estado
+Correcta: c
+
+Pregunta 62
+La evaporación es:
+a) Paso de gas a líquido
+b) Paso de líquido a gas
+c) Paso de sólido a líquido
+d) Paso de gas a sólido
+Correcta: b
+
+Pregunta 63
+La condensación es:
+a) Paso de líquido a gas
+b) Paso de gas a líquido
+c) Paso de sólido a gas
+d) Paso de líquido a sólido
+Correcta: b
+
+Pregunta 64
+La precipitación ocurre cuando:
+a) El aire está seco
+b) La humedad es del 50%
+c) La humedad alcanza el 100%
+d) No hay nubes
+Correcta: c
+
+Pregunta 65
+La escorrentía es:
+a) Infiltración
+b) Evaporación
+c) Circulación del agua sobre la superficie
+d) Condensación
+Correcta: c
+
+Pregunta 66
+La infiltración es:
+a) Paso del agua a la atmósfera
+b) Paso del agua al suelo
+c) Formación de nubes
+d) Evaporación
+Correcta: b
+
+Pregunta 67
+El transporte en el ciclo hidrológico es:
+a) Movimiento del vapor
+b) Movimiento del agua líquida por la superficie
+c) Paso a sólido
+d) Paso a gas
+Correcta: b
+
+Pregunta 68
+La energía del ciclo hidrológico proviene de:
+a) La Tierra
+b) El viento
+c) El Sol
+d) La Luna
+Correcta: c
+
+Pregunta 69
+El ciclo hidrológico es:
+a) Temporal
+b) Discontinuo
+c) Continuo
+d) Irregular
+Correcta: c

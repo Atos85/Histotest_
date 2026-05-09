@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Panel admin</title>
+</head>
+<body>
+
+<h1>Panel administrador</h1>
+
+{% if mensaje %}
+    <p style="color:green;">{{ mensaje }}</p>
+{% endif %}
+
+<h2>Subir nuevo test</h2>
+
+<form method="POST" enctype="multipart/form-data">
+    <input type="file" name="archivo" accept=".txt" required>
+    <button type="submit">Subir test</button>
+</form>
+
+<h2>Tests disponibles</h2>
+
+<ul>
+    {% for test in tests %}
+        <li>
+            {{ test }}
+            -
+            <a href="{{ url_for('borrar_test', nombre=test) }}"
+               onclick="return confirm('¿Seguro que quieres borrar este test?');">
+               Borrar
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+
+<p><a href="/">Volver al inicio</a></p>
+<p><a href="/admin/logout">Cerrar sesión admin</a></p>
+
+</body>
+</html>
