@@ -1,0 +1,399 @@
+Pregunta 1
+La litología es la disciplina que estudia:
+a) La distribución de los seres vivos sobre la Tierra
+b) Las características físicas y químicas de las rocas
+c) La estructura de la población por edad y sexo
+d) La circulación atmosférica
+Correcta: b
+
+Pregunta 2
+Genéricamente, una roca se define como:
+a) Una masa de materia mineral coherente, consolidada y compacta
+b) Una acumulación líquida de materiales volcánicos
+c) Un depósito exclusivamente orgánico
+d) Un elemento gaseoso de la corteza terrestre
+Correcta: a
+
+Pregunta 3
+Para la Geomorfología, el criterio más utilizado para clasificar las rocas es:
+a) Su color
+b) Su edad
+c) Su génesis
+d) Su localización
+Correcta: c
+
+Pregunta 4
+Los tres grandes tipos de rocas por su génesis son:
+a) Duras, blandas y compactas
+b) Sedimentarias, ígneas y metamórficas
+c) Graníticas, basálticas y arcillosas
+d) Detríticas, evaporíticas y carbonatadas
+Correcta: b
+
+Pregunta 5
+Las rocas sedimentarias están formadas por:
+a) La solidificación directa del magma
+b) La transformación de rocas preexistentes por presión
+c) La acumulación de materiales o partículas, precipitación química o crecimiento de organismos
+d) La fusión de rocas en la base de la corteza
+Correcta: c
+
+Pregunta 6
+Las capas horizontales donde suelen depositarse los sedimentos reciben el nombre de:
+a) Estratos
+b) Protolitos
+c) Placas
+d) Magmas
+Correcta: a
+
+Pregunta 7
+El proceso por el cual los sedimentos se compactan y transforman en rocas por cementación se denomina:
+a) Carbonatación
+b) Litificación
+c) Hidrólisis
+d) Subducción
+Correcta: b
+
+Pregunta 8
+Las rocas detríticas se forman por:
+a) La cristalización de elementos químicos disueltos en el agua
+b) La transformación de rocas por presión y temperatura
+c) El transporte, acumulación y cementación de partículas sólidas derivadas de rocas preexistentes
+d) El enfriamiento rápido del magma en superficie
+Correcta: c
+
+Pregunta 9
+¿Cuál de las siguientes aparece como ejemplo de roca detrítica en los apuntes?
+a) Conglomerados
+b) Granito
+c) Basalto
+d) Gneis
+Correcta: a
+
+Pregunta 10
+Las rocas evaporíticas se forman por:
+a) Enfriamiento lento en cámaras magmáticas
+b) Precipitación química resultado de la cristalización de elementos químicos disueltos en el agua
+c) Transformación de protolitos
+d) Acumulación de restos animales exclusivamente
+Correcta: b
+
+Pregunta 11
+Las rocas carbonatadas están formadas mayoritariamente por:
+a) Basaltos
+b) Rocas volcánicas
+c) Carbonatos cálcicos o cálcico-magnésicos
+d) Sales y yesos exclusivamente
+Correcta: c
+
+Pregunta 12
+Las rocas ígneas también reciben el nombre de:
+a) Detríticas
+b) Magmáticas
+c) Carbonatadas
+d) Metamórficas
+Correcta: b
+
+Pregunta 13
+Las rocas ígneas resultan de:
+a) La solidificación de material rocoso fundido
+b) La acumulación de sedimentos en capas horizontales
+c) La erosión biológica de rocas blandas
+d) La acción del agua carbonatada sobre calizas
+Correcta: a
+
+Pregunta 14
+Las rocas intrusivas o plutónicas cristalizan:
+a) En la superficie terrestre con enfriamiento rápido
+b) En el interior de la corteza o con enfriamiento lento del magma
+c) Por precipitación química en aguas salinas
+d) Por acumulación de partículas detríticas
+Correcta: b
+
+Pregunta 15
+La textura granular de las rocas intrusivas indica:
+a) Enfriamiento lento de los magmas
+b) Enfriamiento muy rápido
+c) Disolución química
+d) Transformación por agentes biológicos
+Correcta: a
+
+Pregunta 16
+El ejemplo de roca intrusiva o plutónica que aparece en los apuntes es:
+a) Basalto
+b) Lutita
+c) Granito
+d) Yeso
+Correcta: c
+
+Pregunta 17
+Las rocas extrusivas o volcánicas se forman cuando:
+a) Los sedimentos se compactan lentamente
+b) Los magmas alcanzan la superficie y se enfrían rápidamente
+c) Las rocas se transforman en estado sólido
+d) El agua disuelve minerales carbonatados
+Correcta: b
+
+Pregunta 18
+El ejemplo de roca extrusiva o volcánica citado en los apuntes es:
+a) Pizarra
+b) Granito
+c) Caliza
+d) Basalto
+Correcta: d
+
+Pregunta 19
+Las rocas metamórficas resultan de:
+a) La acumulación de detritus en estratos
+b) La transformación de rocas preexistentes bajo condiciones físicas o químicas
+c) La cristalización de sales en el agua
+d) El enfriamiento directo de lavas superficiales
+Correcta: b
+
+Pregunta 20
+Las rocas sedimentarias o ígneas preexistentes que dan lugar a rocas metamórficas reciben el nombre de:
+a) Protolitos
+b) Estratos
+c) Magmas
+d) Carbonatos
+Correcta: a
+
+Pregunta 21
+El proceso metamórfico transforma la roca original:
+a) Haciéndola perder siempre su estado sólido
+b) Sin que pierda su estado sólido
+c) Solo mediante evaporación del agua
+d) Por sedimentación horizontal
+Correcta: b
+
+Pregunta 22
+¿Cuál de los siguientes factores interviene en el metamorfismo según los apuntes?
+a) Temperatura, presión y actividad química de fluidos
+b) Únicamente insolación
+c) Solo viento y hielo
+d) Exclusivamente precipitación química
+Correcta: a
+
+Pregunta 23
+El Ciclo Geológico de las rocas se refiere a:
+a) La clasificación climática de los materiales
+b) Una serie de procesos geológicos que afectan a las rocas de forma completa o incompleta
+c) La división de la atmósfera en capas
+d) La distribución de las placas tectónicas por continentes
+Correcta: b
+
+Pregunta 24
+El término erosión se puede definir básicamente como:
+a) La acumulación de sedimentos sin transporte
+b) La creación de nuevas placas tectónicas
+c) La eliminación de material que produce pérdida de masa y disminución de volumen o tamaño
+d) La solidificación del magma en superficie
+Correcta: c
+
+Pregunta 25
+La erosión es realizada por:
+a) Agentes geológicos externos
+b) Únicamente fuerzas internas de la Tierra
+c) Solo actividad volcánica
+d) Procesos biológicos sin intervención física
+Correcta: a
+
+Pregunta 26
+¿Cuál de los siguientes NO aparece como agente principal de erosión en los apuntes?
+a) Agua
+b) Hielo
+c) Viento
+d) Magnetismo terrestre
+Correcta: d
+
+Pregunta 27
+La mayoría de los agentes erosivos realizan, además del desgaste:
+a) Fusión magmática y plegamiento
+b) Transporte y sedimentación posterior de materiales
+c) Formación directa de placas tectónicas
+d) Expansión de la atmósfera
+Correcta: b
+
+Pregunta 28
+La erosión mecánica actúa principalmente:
+a) Disolviendo la roca
+b) Desgastando físicamente la roca
+c) Mediante dióxido de carbono disuelto
+d) Por actividad química de fluidos internos
+Correcta: b
+
+Pregunta 29
+La erosión química actúa principalmente:
+a) Disolviendo la roca
+b) Excavando nidos y madrigueras
+c) Por contracciones y dilataciones térmicas únicamente
+d) Por plegamientos tectónicos
+Correcta: a
+
+Pregunta 30
+La erosión biológica se produce por:
+a) La acción exclusiva del hielo
+b) La interacción de animales y plantas
+c) La cristalización de sales
+d) La acción de los magmas
+Correcta: b
+
+Pregunta 31
+La meteorización mecánica supone:
+a) La disgregación física de las rocas en fragmentos
+b) La descomposición química por el agua
+c) La formación de carbonatos y bicarbonatos
+d) La precipitación química de sales
+Correcta: a
+
+Pregunta 32
+Las variaciones fuertes de temperatura entre el día y la noche provocan en las rocas:
+a) Sedimentación química
+b) Contracciones y dilataciones que generan fisuras
+c) Fusión completa de minerales
+d) Formación de protolitos
+Correcta: b
+
+Pregunta 33
+Cuando el agua penetra en grietas y la temperatura baja de 0 °C:
+a) Se evapora y desaparece
+b) Se convierte en vapor de agua
+c) Se expande y puede abrir fisuras
+d) Se transforma en magma
+Correcta: c
+
+Pregunta 34
+Las aguas continentales son consideradas en los apuntes:
+a) Un agente erosivo de primera magnitud
+b) Un factor exclusivamente climático
+c) Un elemento sin capacidad de transporte
+d) Un proceso interno constructivo
+Correcta: a
+
+Pregunta 35
+La disolución consiste en:
+a) La incorporación de moléculas de un cuerpo sólido a un disolvente como el agua
+b) La combinación química del agua con un compuesto
+c) La acción del oxígeno sobre minerales
+d) La rotura mecánica por raíces
+Correcta: a
+
+Pregunta 36
+La hidratación es:
+a) El proceso por el cual el oxígeno libera hierro
+b) La combinación química del agua con un compuesto
+c) La descomposición química por dióxido de carbono
+d) La compactación de sedimentos
+Correcta: b
+
+Pregunta 37
+En algunos casos, la hidratación puede causar un aumento de volumen de hasta:
+a) 10%
+b) 25%
+c) 50%
+d) 90%
+Correcta: c
+
+Pregunta 38
+La oxidación es producida por la acción de:
+a) El oxígeno, generalmente cuando es liberado en el agua
+b) El nitrógeno atmosférico
+c) El vapor de agua exclusivamente
+d) La presión tectónica
+Correcta: a
+
+Pregunta 39
+Los sustratos rocosos de tonalidades rojizas, ocres o parduzcas se deben a:
+a) Carbonatación del calcio
+b) Oxidación del hierro contenido en las rocas
+c) Enfriamiento rápido del basalto
+d) Acción mecánica de los glaciares
+Correcta: b
+
+Pregunta 40
+La hidrólisis se define como:
+a) Disgregación física por cambios de temperatura
+b) Incorporación de moléculas sólidas a un disolvente
+c) Descomposición química de una sustancia por el agua
+d) Acción directa de raíces sobre rocas fisuradas
+Correcta: c
+
+Pregunta 41
+La mayoría de los materiales arcillosos conocidos se han originado por:
+a) Hidrólisis
+b) Oxidación
+c) Carbonatación
+d) Litificación
+Correcta: a
+
+Pregunta 42
+La carbonatación consiste en:
+a) La acción de líquenes sobre rocas desnudas
+b) La capacidad del dióxido de carbono para actuar o disolverse en agua formando ácido carbónico
+c) La rotura de rocas por hielo
+d) La transformación de rocas por presión tectónica
+Correcta: b
+
+Pregunta 43
+En la carbonatación, el agua carbonatada reacciona con rocas cuyos minerales predominantes sean:
+a) Hierro y sílice únicamente
+b) Calcio, magnesio, sodio o potasio
+c) Basalto y granito
+d) Arcilla y limo exclusivamente
+Correcta: b
+
+Pregunta 44
+Los líquenes son considerados importantes porque:
+a) Impiden la formación de suelos
+b) Son verdaderos indicadores o pioneros de la formación de suelos
+c) Eliminan la erosión química
+d) Solo actúan sobre rocas ya sedimentadas en estratos
+Correcta: b
+
+Pregunta 45
+Los animales contribuyen a la erosión mecánica mediante:
+a) Excavación o construcción de nidos y madrigueras
+b) Enfriamiento de magmas
+c) Formación de estratos
+d) Cristalización de sales
+Correcta: a
+
+Pregunta 46
+La erosión humana se clasifica en los apuntes en:
+a) Agraria y climática
+b) Física y química
+c) Explotación y construcción
+d) Natural y atmosférica
+Correcta: c
+
+Pregunta 47
+La agricultura, la explotación forestal, la urbanización y las carreteras aceleran la erosión porque:
+a) Destruyen parcial o totalmente la capa protectora de la vegetación
+b) Aumentan la humedad de la atmósfera
+c) Reducen siempre la pérdida de suelo
+d) Eliminan por completo la acción de agentes externos
+Correcta: a
+
+Pregunta 48
+El relieve de una región es:
+a) La suma de sus datos climáticos
+b) El conjunto de todos los tipos de modelados que se observan en ella
+c) La distribución de población sobre el territorio
+d) La capa más externa de la Tierra
+Correcta: b
+
+Pregunta 49
+El relieve se conforma generalmente por la acción combinada de:
+a) Agentes internos constructivos y agentes externos destructivos
+b) Solo agentes atmosféricos
+c) Solo actividad humana
+d) Climas tropicales y templados
+Correcta: a
+
+Pregunta 50
+Según los apuntes, el relieve no es algo fijo y definitivo, sino:
+a) Una situación transitoria e instantánea a escala geológica del tiempo
+b) Una estructura inmóvil desde su origen
+c) Un fenómeno exclusivamente climático
+d) Un elemento sin relación con las rocas
+Correcta: a

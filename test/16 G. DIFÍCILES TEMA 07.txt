@@ -1,0 +1,399 @@
+Pregunta 1
+El desarrollo del transporte aéreo en el contexto de la globalización ha reconfigurado especialmente:
+a) La jerarquía agraria de los espacios rurales
+b) Las rutas, preferencias y conexiones entre lugares
+c) La clasificación tradicional de los modos terrestres
+d) La relación entre propiedad y explotación del suelo
+Correcta: b
+
+Pregunta 2
+La reducción del tiempo de viaje y la ampliación de las flotas aéreas han desafiado:
+a) Las antiguas lógicas del transporte aéreo
+b) La función administrativa de las capitales
+c) La estructura del transporte por tuberías
+d) La movilidad exclusivamente peatonal
+Correcta: a
+
+Pregunta 3
+El crecimiento vertiginoso del transporte en las últimas décadas exige especialmente:
+a) La supresión de terminales intermodales
+b) El retorno a rutas aisladas sin coordinación
+c) Una gestión adecuada y eficiente de las redes
+d) La eliminación de nodos secundarios
+Correcta: c
+
+Pregunta 4
+Actualmente, la gestión de los sistemas de transporte debe entenderse dentro de:
+a) Un contexto político, económico y social más amplio
+b) Una lógica exclusivamente técnica de infraestructuras
+c) Un modelo centrado solo en vehículos privados
+d) Una red sin relación con actores públicos o privados
+Correcta: a
+
+Pregunta 5
+Aunque siguen siendo fundamentales, las infraestructuras han dejado de ser:
+a) Elementos necesarios para la movilidad
+b) Parte del sistema de transporte
+c) El único foco de atención en el análisis del transporte
+d) Espacios donde se articulan flujos y conexiones
+Correcta: c
+
+Pregunta 6
+La visión clásica del transporte ha evolucionado hacia una consideración más amplia en la que influyen:
+a) Únicamente el trazado de carreteras y ferrocarriles
+b) Factores políticos, técnicos, económicos y territoriales
+c) Solo la capacidad de carga de los vehículos
+d) Exclusivamente la velocidad de los desplazamientos
+Correcta: b
+
+Pregunta 7
+Actualmente, las infraestructuras forman parte de:
+a) Un sistema aislado de obras públicas
+b) Una red sin relación con los flujos
+c) Un engranaje más amplio y complejo
+d) Un conjunto de elementos sin jerarquía
+Correcta: c
+
+Pregunta 8
+Los sistemas de transporte sofisticados incluyen:
+a) Solo rutas directas sin nodos intermedios
+b) Únicamente infraestructuras físicas tradicionales
+c) Exclusivamente corredores nacionales
+d) Logística global, hubbing, sistemas puerta a puerta y cadenas de suministro integradas
+Correcta: d
+
+Pregunta 9
+Según los apuntes, ya no es viable concebir infraestructuras aisladas porque:
+a) Todo opera en red y cada nodo cumple un papel dentro de una jerarquía de interdependencia
+b) Las infraestructuras han perdido toda importancia en la movilidad
+c) Los nodos han sido sustituidos por rutas sin conexión
+d) Las redes actuales funcionan sin jerarquías ni especialización
+Correcta: a
+
+Pregunta 10
+El diseño de redes de transporte depende en gran medida de:
+a) La reducción de todos los nodos secundarios
+b) La elección y desarrollo de nodos o hubs
+c) La eliminación de transferencias intermodales
+d) El predominio de rutas aisladas sobre redes integradas
+Correcta: b
+
+Pregunta 11
+Los hubs se entienden como:
+a) Centros dinámicos de transporte dentro de una red
+b) Rutas directas sin función redistribuidora
+c) Flujos secundarios entre nodos de baja capacidad
+d) Sistemas locales sin conexión con redes superiores
+Correcta: a
+
+Pregunta 12
+Los hubs incluyen elementos como:
+a) Únicamente pistas o vías de circulación
+b) Solo vehículos de gran capacidad
+c) Instalaciones, servicios, almacenamiento y accesos al nodo
+d) Exclusivamente empresas operadoras privadas
+Correcta: c
+
+Pregunta 13
+Los hubs son importantes porque:
+a) Sustituyen todas las rutas secundarias por conexiones directas
+b) Polarizan el sistema en el que se integran e influyen en su entorno geográfico
+c) Eliminan la necesidad de jerarquía en la red
+d) Reducen la centralidad de los principales nodos logísticos
+Correcta: b
+
+Pregunta 14
+Entre los retos del diseño y gestión de hubs se encuentran:
+a) Gestión eficiente, localizaciones estratégicas y reorganización de funciones
+b) Eliminación de nodos secundarios y rutas alimentadoras
+c) Supresión de la logística global en favor de rutas aisladas
+d) Reducción de la capacidad de almacenamiento y acceso
+Correcta: a
+
+Pregunta 15
+Los sistemas en red representan:
+a) Una fase anterior al desarrollo de corredores de transporte
+b) La fase más avanzada del desarrollo y gestión de una red de transporte
+c) Un modelo sin nodos, jerarquías ni especialización funcional
+d) Una alternativa a cualquier forma de intermodalidad
+Correcta: b
+
+Pregunta 16
+Los sistemas en red se organizan jerárquicamente para asegurar:
+a) La concentración absoluta de todos los flujos en un único nodo
+b) La reducción de conexiones entre nodos secundarios
+c) Eficiencia en el flujo de tráfico y rapidez
+d) La desaparición de rutas de alimentación
+Correcta: c
+
+Pregunta 17
+Los tres sistemas de red detallados en los apuntes son:
+a) Terrestre, acuático y aéreo
+b) Ferrocarril, carretera y transporte por tuberías
+c) Intermodalidad, multimodalidad y transporte público
+d) Hub and spoke, Point to Point Network y mini-redes
+Correcta: d
+
+Pregunta 18
+El modelo hub and spoke opera a partir de:
+a) Nodos secundarios que dirigen flujos hacia hubs principales
+b) Conexiones directas entre todos los puntos sin jerarquía
+c) Redes locales de reparto sin centros dominantes
+d) Rutas independientes que evitan la concentración de tráfico
+Correcta: a
+
+Pregunta 19
+En el modelo hub and spoke, los nodos secundarios reciben el nombre de:
+a) Spokes principales
+b) Feeders
+c) Hubs logísticos
+d) Terminales centrales
+Correcta: b
+
+Pregunta 20
+En el modelo hub and spoke, los hubs principales sirven para:
+a) Impedir la relación entre redes paralelas
+b) Sustituir todos los nodos secundarios
+c) Redistribuir flujos hacia otros centros de la red o redes paralelas
+d) Evitar la concentración de pasajeros y mercancías
+Correcta: c
+
+Pregunta 21
+El modelo hub and spoke es ampliamente utilizado en:
+a) La industria aérea y por grandes operadores logísticos
+b) La movilidad peatonal de escala barrial
+c) El transporte urbano sin nodos jerarquizados
+d) Las redes locales de distribución informal
+Correcta: a
+
+Pregunta 22
+En la industria aérea, las aerolíneas escogen sus hubs según:
+a) Su ausencia de conexiones intermodales
+b) Criterios de preparación, capacidad y localización
+c) Su baja accesibilidad respecto a otros nodos
+d) La inexistencia de franjas horarias disponibles
+Correcta: b
+
+Pregunta 23
+El modelo hub and spoke permite:
+a) Aumentar el número de rutas directas necesarias entre todos los aeropuertos
+b) Eliminar la jerarquía entre nodos principales y secundarios
+c) Reducir el número de rutas necesarias para comunicar aeropuertos entre sí
+d) Sustituir los aeropuertos centrales por conexiones locales aisladas
+Correcta: c
+
+Pregunta 24
+En este modelo, los hubs de gran capacidad se encargan de enlazar:
+a) Aeropuertos de menor capacidad o importancia, llamados spokes
+b) Solo rutas directas punto a punto entre ciudades pequeñas
+c) Mini-redes urbanas sin relación con el transporte aéreo
+d) Terminales sin función redistribuidora
+Correcta: a
+
+Pregunta 25
+Uno de los beneficios del modelo hub and spoke es:
+a) La reducción de eficiencia por concentración de operaciones
+b) La mejora de la eficiencia de las comunicaciones
+c) La desaparición de terminales de conexión
+d) La eliminación de recursos concentrados en nodos principales
+Correcta: b
+
+Pregunta 26
+Una ventaja del hub and spoke es que permite concentrar operaciones complejas como:
+a) Control de pasajeros y equipajes en aeropuertos de gran capacidad
+b) Reparto urbano de última milla sin nodo principal
+c) Entregas puerta a puerta sin paso por terminales
+d) Transporte local de mercancías sin conexiones externas
+Correcta: a
+
+Pregunta 27
+El sistema hub and spoke también puede facilitar:
+a) La supresión de aeropuertos secundarios
+b) La eliminación de la programación horaria
+c) La reducción total de la conectividad aérea
+d) La creación de nuevas terminales o revitalización de las infrautilizadas
+Correcta: d
+
+Pregunta 28
+Una carencia del sistema hub and spoke se relaciona con:
+a) La ausencia de concentración de tráfico
+b) La flexibilidad de las operaciones
+c) La imposibilidad de usar aeropuertos centrales
+d) La falta de utilidad para la industria aérea
+Correcta: b
+
+Pregunta 29
+En el sistema hub and spoke, los retrasos en el aeropuerto central o en aeropuertos secundarios pueden causar:
+a) Demoras en toda la red
+b) Mayor independencia entre rutas conectadas
+c) Supresión automática del tráfico afectado
+d) Reducción de la necesidad de coordinación
+Correcta: a
+
+Pregunta 30
+Para que el hub and spoke funcione eficientemente, la programación del tráfico debe estar:
+a) Basada en rutas independientes no coordinadas
+b) Desconectada de la capacidad del hub
+c) Perfectamente delimitada y sincronizada
+d) Organizada sin franjas horarias de conexión
+Correcta: c
+
+Pregunta 31
+En Europa y España, las aerolíneas de bajo coste tienden a operar en:
+a) Aeropuertos secundarios
+b) Hubs internacionales de máxima congestión exclusivamente
+c) Puertos intermodales de mercancías
+d) Estaciones ferroviarias de alta velocidad
+Correcta: a
+
+Pregunta 32
+Las aerolíneas low cost aprovechan:
+a) La ausencia de demanda en rutas medias
+b) Franjas horarias menos congestionadas o más económicas
+c) La eliminación de conexiones regionales
+d) La imposibilidad de operar en aeropuertos secundarios
+Correcta: b
+
+Pregunta 33
+Las aerolíneas low cost pueden obtener:
+a) Prohibición de operar en ciudades medianas
+b) Reducción obligatoria de todos sus servicios regulares
+c) Incentivos económicos de administraciones locales o regionales
+d) Eliminación de tasas aeroportuarias en todos los aeropuertos principales
+Correcta: c
+
+Pregunta 34
+El sistema Point to Point Network aparece en una escala de operaciones:
+a) Exclusivamente global y de grandes hubs
+b) Mayor que el sistema hub and spoke
+c) Menor que el hub and spoke
+d) Limitada únicamente a transporte marítimo
+Correcta: c
+
+Pregunta 35
+El sistema Point to Point Network está especializado en transportar:
+a) Objetos pequeños, ligeros y de alto valor añadido
+b) Grandes mercancías a granel en corredores marítimos
+c) Pasajeros de larga distancia entre hubs internacionales
+d) Contenedores masivos entre puertos principales
+Correcta: a
+
+Pregunta 36
+Entre los objetos propios del Point to Point Network aparecen:
+a) Contenedores marítimos de gran tonelaje
+b) Correo urgente, documentos, objetos valiosos o productos perecederos
+c) Materias primas transportadas por oleoductos
+d) Pasajeros en redes metropolitanas integradas
+Correcta: b
+
+Pregunta 37
+El sistema Point to Point Network es más costoso, pero garantiza:
+a) Reducción de precisión horaria por múltiples transbordos
+b) Dependencia obligatoria de hubs internacionales
+c) Entregas rápidas y precisas dentro de un marco horario definido
+d) Transporte de bajo valor añadido a gran escala
+Correcta: c
+
+Pregunta 38
+El sistema Point to Point puede entregar:
+a) Solo en aeropuertos centrales de gran capacidad
+b) Únicamente en puertos intermodales internacionales
+c) Exclusivamente en terminales ferroviarias
+d) A domicilio o en puntos de recogida céntricos
+Correcta: d
+
+Pregunta 39
+La alta demanda del Point to Point proviene principalmente de:
+a) Profesionales, empresas especializadas y sectores como el bancario y judicial
+b) Turistas de bajo coste en rutas internacionales
+c) Operadores marítimos de mercancías a granel
+d) Administraciones que gestionan transporte público metropolitano
+Correcta: a
+
+Pregunta 40
+Las mini-redes operan en contextos:
+a) Exclusivamente intercontinentales
+b) Urbanos o regionales
+c) Solo de grandes aeropuertos hub
+d) Únicamente marítimos y portuarios
+Correcta: b
+
+Pregunta 41
+Las mini-redes se caracterizan por:
+a) Estar especializadas en su entorno operativo y conocer opciones de transporte a pequeña escala
+b) Depender de hubs globales para todos sus desplazamientos
+c) Evitar la distribución urbana y regional
+d) Operar solo grandes corredores internacionales
+Correcta: a
+
+Pregunta 42
+Las mini-redes suelen estar formadas por:
+a) Grandes compañías aéreas internacionales
+b) Administraciones estatales de transporte
+c) Pequeñas empresas distribuidoras
+d) Operadores marítimos de larga distancia
+Correcta: c
+
+Pregunta 43
+Las mini-redes manejan productos como:
+a) Graneles energéticos y materias primas pesadas
+b) Entrega urgente, perecederos o productos vinculados al comercio electrónico
+c) Solo pasajeros de transporte metropolitano
+d) Carga masiva intercontinental en contenedores
+Correcta: b
+
+Pregunta 44
+Las sinergias generadas por las redes de transporte se basan en:
+a) La desvinculación entre red y territorio
+b) La eliminación de objetivos logísticos
+c) Su diseño según las necesidades específicas del territorio donde operan
+d) La ausencia de integración entre escalas
+Correcta: c
+
+Pregunta 45
+Las redes pueden integrarse en circuitos intermodales de alcance:
+a) Solo local
+b) Solo internacional
+c) Exclusivamente urbano y metropolitano
+d) Local, regional, nacional o global
+Correcta: d
+
+Pregunta 46
+La movilidad, desde una perspectiva geográfica, se relaciona estrechamente con:
+a) El transporte
+b) La propiedad del suelo
+c) La función administrativa urbana
+d) La estructura demográfica
+Correcta: a
+
+Pregunta 47
+La movilidad no trata solo de desplazamientos sobre el territorio, porque su evolución también genera consecuencias en:
+a) La reducción absoluta de las redes de transporte
+b) La organización y distribución de actividades sobre el espacio
+c) La desaparición de la accesibilidad territorial
+d) La independencia entre transporte y usos del suelo
+Correcta: b
+
+Pregunta 48
+La movilidad se entiende como:
+a) El conjunto de desplazamientos de personas y mercancías producidos en un entorno determinado
+b) La simple existencia de infraestructuras viarias
+c) La propiedad pública o privada de las redes
+d) La concentración de actividades en hubs globales
+Correcta: a
+
+Pregunta 49
+Según Harvey, la movilidad se produce cuando:
+a) No existen diferencias entre espacios productivos y reproductivos
+b) El transporte deja de estar relacionado con la organización espacial
+c) La separación de espacios productivos y reproductivos genera necesidad de desplazamiento
+d) La ciudad compacta elimina por completo las necesidades de movilidad
+Correcta: c
+
+Pregunta 50
+A medida que los espacios productivos y reproductivos se alejan, la movilidad:
+a) Desaparece por reducción de las distancias funcionales
+b) Se incrementa e incluye nuevos medios de transporte
+c) Se limita exclusivamente a desplazamientos peatonales
+d) Deja de depender de redes, medios e infraestructuras
+Correcta: b
